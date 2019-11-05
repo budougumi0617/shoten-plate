@@ -36,7 +36,7 @@
     "grunt-contrib-clean": "^2.0.0",
     "grunt-shell": "^3.0.1",
     "install": "^0.12.2",
-    "js-yaml": "^3.6.0",
+    "js-yaml": "^3.13.1",
     "load-grunt-tasks": "^4.0.0",
     "npm": "^6.9.0",
     "textlint": "^11.2.5",
